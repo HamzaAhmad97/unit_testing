@@ -1,0 +1,3 @@
+The uncertainty principle is one of the most famous (and probably misunderstood) ideas in physics. It tells us that there is a fuzziness in nature, a fundamental limit to what we can know about the behaviour of quantum particles and, therefore, the smallest scales of nature. Of these scales, the most we can hope for is to calculate probabilities for where things are and how they will behave. Unlike Isaac Newton's clockwork universe, where everything follows clear-cut laws on how to move and prediction is easy if you know the starting conditions, the uncertainty principle enshrines a level of fuzziness into quantum theory.
+
+ 
