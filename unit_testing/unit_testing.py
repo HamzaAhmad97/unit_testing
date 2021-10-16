@@ -10,3 +10,5 @@ def count_letter_frequency(content, letter):
     else: return frequency
 
 
+if __name__ == "__main__":
+    print()
